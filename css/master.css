@@ -1,9 +1,7 @@
-@font-face {
-  font-family: 'Whitney';
-  src: local('Whitney'), url("../font/Whitney-Medium.otf") format('opentype');
-}
-
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,500;0,700;0,900;1,300;1,500;1,700;1,900&display=swap');
+@font-face {font-family: "Uni Sans Special"; src:url("/mtb_project/resources/Uni Sans Special.ttf") format("truetype");}
 body {
 	color: white;
-	font-family: Whitney; /* or Whitney*/
+	font-family: font-family: 'Inter', 'Roboto', sans-serif;
 }
