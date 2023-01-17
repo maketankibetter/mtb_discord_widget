@@ -19,16 +19,7 @@ body {
     font-family: Uni Sans Special !important;
     font-size: 20px !important;
 }
-.invite-text {
-    float: right;
-    color: #f0f2f5;
-}
-.invite-text a {
-    height: 32px;
-    text-decoration: none;
-    color: inherit;
-    font-size: 100%!important;
-}
+.invite-text {display: contents;}
 .invite-button {
     float: right;
     color: #f0f2f5;
