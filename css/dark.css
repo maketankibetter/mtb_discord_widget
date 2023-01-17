@@ -16,7 +16,8 @@ body {
 }
 .title-text {
     float: left;
-    font-weight: 900 !important;
+    font-family: Uni Sans Special !important;
+    font-size: 20px !important;
 }
 .invite-text {
     float: right;
