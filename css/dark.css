@@ -9,7 +9,7 @@ body {
     text-align: left;
     height: 32px;
     line-height: 32px!important;
-    background-color: #5865f2;
+    background-color: #e02e2e;
     padding-left: 10px!important;
     font-weight: bold!important;
     font-size: 1.17em!important;
@@ -24,10 +24,12 @@ body {
     float: right;
     color: #f0f2f5;
     padding: 3px 5px!important;
-    line-height: 1.5 !important;
-    height: 26px;
-    background: #e02e2e;
+    line-height: 1.05 !important;
+    height: 18px;
+    margin: 4px !important;
+    background: #5865f2;
     text-decoration: unset;
+    font-weight: 900 !important;
 }
 .invite-button:hover {text-decoration: underline;}
 .invite-button:active {
